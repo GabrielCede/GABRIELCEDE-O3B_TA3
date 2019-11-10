@@ -1,0 +1,6 @@
+C:\Users\Personal\Desktop\3semestre\POO EJERCICIOS\Máspruebas\TRABAJO_A_3\GabrielCedeno3B\bin\Debug\GabrielCedeno3B.exe.config
+C:\Users\Personal\Desktop\3semestre\POO EJERCICIOS\Máspruebas\TRABAJO_A_3\GabrielCedeno3B\bin\Debug\GabrielCedeno3B.exe
+C:\Users\Personal\Desktop\3semestre\POO EJERCICIOS\Máspruebas\TRABAJO_A_3\GabrielCedeno3B\bin\Debug\GabrielCedeno3B.pdb
+C:\Users\Personal\Desktop\3semestre\POO EJERCICIOS\Máspruebas\TRABAJO_A_3\GabrielCedeno3B\obj\Debug\GabrielCedeno3B.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Desktop\3semestre\POO EJERCICIOS\Máspruebas\TRABAJO_A_3\GabrielCedeno3B\obj\Debug\GabrielCedeno3B.exe
+C:\Users\Personal\Desktop\3semestre\POO EJERCICIOS\Máspruebas\TRABAJO_A_3\GabrielCedeno3B\obj\Debug\GabrielCedeno3B.pdb
