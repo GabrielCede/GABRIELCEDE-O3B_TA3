@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +8,7 @@ namespace GabrielCedeno3B.clase
 {
          class Datos
     {
-        public Datos(string apellido, string nombre, int id, string direccion)
+        public Datos(string apellido, string nombres, int num_cedula, string direccion)
         {
             Apellido = apellido;
             Nombres = nombres;
@@ -49,3 +49,4 @@ namespace GabrielCedeno3B.clase
 
     }
 }
+
