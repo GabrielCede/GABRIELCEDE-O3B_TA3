@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +8,7 @@ namespace GabrielCedeno3B.clase
 {
     class DatosGasolina
     {
-        public DatosGasolina(string tipo, double cantidadxG, double precioDeVenta)
+        public DatosGasolina(string tipo, double cantidadxG, double preciodeventa)
         {
             Tipo = tipo;
             CantidadxG = cantidadxG;
@@ -37,7 +37,7 @@ namespace GabrielCedeno3B.clase
         }
         public double Subtotal
         {
-            get { return preciodeventa * CantidadxG; }
+            get { return (PrecioDeVenta * CantidadxG); }
         }
 
         public double ImpuestoIVA
@@ -51,6 +51,7 @@ namespace GabrielCedeno3B.clase
         }
     }
 }
+
 
     
 
